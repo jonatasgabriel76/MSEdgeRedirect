@@ -1,6 +1,7 @@
 Global $aCountries[37][3] = _
     [["Austria", 14, "AT"], _
     ["Belgium", 21, "BE"], _
+    ["Brazil", 32, "BR"], _
     ["Bulgaria", 35, "BG"], _
     ["Croatia", 108, "HR"], _
     ["Cyprus", 59, "CY"], _
